@@ -1,1 +1,1 @@
-Bot run
+web: bot main
